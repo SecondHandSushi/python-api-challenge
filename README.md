@@ -1,5 +1,9 @@
 # python-api-challenge
 
+Matthew Idle 
+University of Minnesota
+Data Analytics and Visualization Bootcamp 2023/24
+
 WeatherPy
 
 Dependencies are imported
